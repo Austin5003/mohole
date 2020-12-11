@@ -1,0 +1,13 @@
+{
+"description": "Automatically constructs small blocks.",
+"requirements": [
+	{ "item": "copper", "amount": 100 },
+	{ "item": "silicon", "amount": 50 },
+],
+"category": "distribution",
+"consumes": {
+	"power": 1,
+},
+"research": "payload-conveyor",
+"buildVisibility": "shown"
+}
