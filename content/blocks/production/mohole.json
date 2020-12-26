@@ -14,7 +14,7 @@
 "updateEffect": "pulverize",
 "updateEffectChance": 0.04,
 "consumes": {
-	"power": 0.8,
+	"power": 8,
 	"liquid": {"liquid": "water", "amount": 0.2},
 },
 "requirements": [
