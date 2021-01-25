@@ -2,11 +2,11 @@ name: "Mohole (and more)"
 displayName: Mohole (and more)
 author: Austin5003
 description: "New blocks:
-/nMohole: slag drill
-/nSmall thermal generator: a smaller thermal generator
-/nChanges:
-/nSand water can be mined
-/nExperimental blocks enabled"
+Mohole: slag drill
+Small thermal generator: a smaller thermal generator
+Changes:
+Sand water can be mined
+Experimental blocks enabled"
 version: "0.1"
 minGameVersion: "105"
 dependencies: [ ]
