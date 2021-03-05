@@ -1,0 +1,7 @@
+itemDrop: sand,
+liquidDrop: water,
+playerUnmineable: true,
+attributes: {
+	oil: 0.5
+	spores: 0.1
+}
