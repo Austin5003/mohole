@@ -2,11 +2,12 @@
 "type": "Fracker",
 "name": "Mohole",
 "description": "Extracts slag from the mantle of the planet using power and water.",
+"floating": true,
 "liquidCapacity": 50,
 "itemCapacity": 50,
 "result": "slag",
 "size": 5,
-"atttribute": "oil",
+"attribute": "heat",
 "hasPower": true,
 "hasLiquids": true,
 "hasItems": false,
@@ -27,6 +28,6 @@
 ],
 "category": "production",
 "research": "oil-extractor",
-"activeSound": "drill",
-"activeSoundVolume": 0.5
+"loopSound": "drill",
+"loopSoundVolume": 0.5
 }
