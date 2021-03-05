@@ -6,7 +6,8 @@ Mohole: slag drill
 Small thermal generator: a smaller thermal generator
 Changes:
 Sand water can be mined
-Experimental blocks enabled"
-version: "0.1"
+Experimental blocks enabled
+Sand water variants have oil attribute"
+version: "0.2"
 minGameVersion: "105"
 dependencies: [ ]
