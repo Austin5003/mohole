@@ -8,6 +8,5 @@
 "consumes": {
 	"power": 1,
 },
-"research": "block-forge",
 "buildVisibility": "shown"
 }
